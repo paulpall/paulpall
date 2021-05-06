@@ -1,6 +1,6 @@
 ![Developer_Banner](Developer_Banner.png)
 
-### 👋🏻 Hei!
+# 👋🏻 Hei!
 
 (*That's* Hey! *in Estonian* 🇪🇪)
 
@@ -18,17 +18,17 @@ I Really Like:
 
 ------
 
-### 🧭 Find Repositories:
+## 🧭 Find Repositories:
 
-#### ☕️ [My Personal Projects](https://github.com/Pauls-Personal-Projects)
+### ☕️ [My Personal Projects](https://github.com/Pauls-Personal-Projects)
 
-#### 📚 [My University Projects](https://github.com/Pauls-University-Projects)
+### 📚 [My University Projects](https://github.com/Pauls-University-Projects)
 
 
 
 ------
 
-### 📫 Get in Touch:
+## 📫 Get in Touch:
 
 [![linkedin badge](https://img.shields.io/badge/Paul_Johannes_Aru-4D4D4D?style=flat&logo=linkedin)](https://www.linkedin.com/in/pauljohannesaru/)
 
