@@ -14,6 +14,18 @@ I Really Like:
 - **Implementing Vision Based Solutions.**
 - **Collecting and Playing Around with Vintage Computers.**
 
+
+
+------
+
+### 🧭 Find Repositories:
+
+#### ☕️ [My Personal Projects](https://github.com/Pauls-Personal-Projects)
+
+#### 📚 [My University Projects](https://github.com/Pauls-University-Projects)
+
+
+
 ------
 
 ### 📫 Get in Touch:
