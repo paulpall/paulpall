@@ -4,7 +4,7 @@
 
 (*That's* Hey! *in Estonian* 🇪🇪)
 
-##### I am a Tech Enthusiast! As an Avid Open Source Code Advocate, I Will Try My Best to Collect All of My Projects Here (*that are not protected by an NDA*). I am Especially Interested in:
+#### I am a Tech Enthusiast! As an Avid Open Source Code Advocate, I Will Try My Best to Collect All of My Projects Here (*that are not protected by an NDA*). I am Especially Interested in:
 
 - **Developing Android and iOS Apps.**
 - **Building Smart IoT Devices.**
