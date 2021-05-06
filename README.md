@@ -4,9 +4,9 @@
 
 (*That's* Hey! *in Estonian* 🇪🇪)
 
-#### I am a Tech Enthusiast! As an Avid Open Source Code Advocate, I Will Try My Best to Collect All of My Projects Here (*that are not protected by an NDA*).
+### I am a Tech Enthusiast! As an Avid Open Source Code Advocate, I Will Try My Best to Collect All of My Projects Here (*that are not protected by an NDA*).
 
-I Really Like:
+#### I Really Like:
 
 - **Developing *Android* and *iOS* Apps.**
 - **Building Smart IoT Devices.**
@@ -16,7 +16,7 @@ I Really Like:
 
 
 
-------
+
 
 ## 🧭 Find Repositories:
 
@@ -26,7 +26,7 @@ I Really Like:
 
 
 
-------
+
 
 ## 📫 Get in Touch:
 
@@ -38,8 +38,10 @@ I Really Like:
 
 
 
+
+
+
+
 ------
-
-
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=paulpall.visitor-badge)
