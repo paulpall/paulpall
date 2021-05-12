@@ -1,4 +1,4 @@
-![Developer_Banner](Developer_Banner.png)
+[![Banner](Developer_Banner.png)](https://www.linkedin.com/in/pauljohannesaru/)
 
 # 👋🏻 Hei!
 
