@@ -4,7 +4,8 @@
 
 (*That's* Hey! *in Estonian* 🇪🇪)
 
-### I am a Tech Enthusiast! As an Avid Open Source Code Advocate, I Will Try My Best to Collect All of My Projects Here (*that are not protected by an NDA*).
+### I am a Tech Enthusiast!
+As an Avid Open Source Software Advocate, I Will Try My Best to Collect All of My Projects Here (*that are not protected by an NDA*).
 
 #### I Really Like:
 
@@ -16,8 +17,6 @@
 
 
 
-
-
 ## 🧭 Find My Work:
 
 ### [My Personal Projects](https://github.com/Pauls-Personal-Projects)
@@ -25,8 +24,6 @@
 ### [My University Projects](https://github.com/Pauls-University-Projects)
 
 ### [Google Play Store](https://play.google.com/store/apps/dev?id=5732778015207832740)
-
-
 
 
 
@@ -42,10 +39,9 @@
 
 
 
-
-
 ------
 
 <a href="https://www.buymeacoffee.com/paulpall" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=paulpall.visitor-badge)
+
