@@ -43,5 +43,5 @@ As an Avid Open Source Software Advocate, I Will Try My Best to Collect All of M
 
 ![Visitor Counter](https://visitor-badge.glitch.me/badge?page_id=paulpall.visitor-badge)
 
-[![Donate by Buying Me A Coffee](/bmc-button.png)](https://www.buymeacoffee.com/paulpall)
+[![Donate by Buying Me A Coffee](/bmc-button.png | width=100)](https://www.buymeacoffee.com/paulpall)
 
