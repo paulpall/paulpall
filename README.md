@@ -29,11 +29,11 @@ As an Avid Open Source Software Advocate, I Will Try My Best to Collect All of M
 
 ## 📫 Get in Touch:
 
-[![linkedin badge](https://img.shields.io/badge/Paul_Johannes_Aru-4D4D4D?style=flat&logo=linkedin)](https://www.linkedin.com/in/pauljohannesaru/)
+[![Linkedin Link](https://img.shields.io/badge/Paul_Johannes_Aru-4D4D4D?style=flat&logo=linkedin)](https://www.linkedin.com/in/pauljohannesaru/)
 
-[![email badge](https://img.shields.io/badge/pauljohannes.aru@gmail.com-4D4D4D?style=flat&logo=gmail)](mailto:pauljohannes.aru@gmail.com)
+[![Email Link](https://img.shields.io/badge/pauljohannes.aru@gmail.com-4D4D4D?style=flat&logo=gmail)](mailto:pauljohannes.aru@gmail.com)
 
-[![twitter badge](https://img.shields.io/badge/@Paul__Aru-4D4D4D?style=flat&logo=twitter)](https://twitter.com/Paul_Aru)
+[![Twitter Link](https://img.shields.io/badge/@Paul__Aru-4D4D4D?style=flat&logo=twitter)](https://twitter.com/Paul_Aru)
 
 
 
@@ -41,7 +41,7 @@ As an Avid Open Source Software Advocate, I Will Try My Best to Collect All of M
 
 ------
 
-[![Buy Me A Coffee](/bmc-button.png)](https://www.buymeacoffee.com/paulpall)
+![Visitor Counter](https://visitor-badge.glitch.me/badge?page_id=paulpall.visitor-badge)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=paulpall.visitor-badge)
+[![Donate by Buying Me A Coffee](/bmc-button.png)](https://www.buymeacoffee.com/paulpall)
 
