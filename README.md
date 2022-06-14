@@ -25,6 +25,8 @@ As an Avid Open Source Software Advocate, I Will Try My Best to Collect All of M
 
 ### [Google Play Store](https://play.google.com/store/apps/dev?id=5732778015207832740)
 
+### [Twitter Bot](https://twitter.com/ArukasPilv)
+
 
 
 ## 📫 Get in Touch:
